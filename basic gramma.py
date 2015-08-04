@@ -68,7 +68,6 @@ import syssys.modules[__name__] = _const()
                     my
                     sun shine"""
 
-
 #自然字符串(转义字符原样保留输出)
 print r"hello \n Sunday"
 
